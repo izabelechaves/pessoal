@@ -12,7 +12,7 @@ padding: 20px;
 }
 header{
 background-color: #ecb9e0;
-color: #fff;
+color: #333;
 padding: 10px 0;
 text-align: center;
 }
@@ -33,9 +33,7 @@ text-decoration: none;
 section{
 margin: 20px 0;
 }
-section#sobre,
-section#projetos,
-section#contato {
+section#meusanimaisfavoritos {
 background-color: #fff;
 padding: 20px;
 border-radius: 8px;
